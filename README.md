@@ -85,7 +85,7 @@ all_data_updata()函数的具体实现在protocol.c，这个很关键！！！
 三、过程图片
 ====
 1、嘉立创制作+SMT照片
-！[PCB&SMT](https://github.com/GitHubXieZY/Termp-Humi-Recorder/blob/main/1614060124187.jpg)
+！[image](https://github.com/GitHubXieZY/Termp-Humi-Recorder/blob/main/1614060124187.jpg)
 -----
 2、温湿度显示
 -----
